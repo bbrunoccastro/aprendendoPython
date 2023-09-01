@@ -5,3 +5,4 @@ mediaMensalidade = float(input("Digite a média da mensalidade: "))
 print(nome + " trabalha na empresa " + empresa)
 print("Possui: ", qtde_funcionarios, " funcionarios.")
 print("A média da mensalidade é de: " + str(mediaMensalidade))
+novo = "teste de esteira"
